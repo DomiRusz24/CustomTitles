@@ -1,0 +1,7 @@
+name: CustomTitles
+version: ${project.version}
+main: me.domirusz24.customtitles.CustomTitles
+depend: [ProtocolLib, WorldEdit, PlaceholderAPI]
+softdepend: [Multiverse-Core]
+api-version: 1.13
+authors: [DomiRusz24]
